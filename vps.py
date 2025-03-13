@@ -9,7 +9,7 @@ BINARY_PATH = "./KALAKUTA"
 process = None
 target_ip = None
 target_port = None
-attack_time = lala  # Default time
+attack_time = 240  # Default time
 threads = 1200  # Default thread count
 
 # Start command: Show Attack button
